@@ -40,7 +40,9 @@
   background-color: blue;
 }
 .img-avatar{
- 
+  display: flex;
+  justify-content: center;
+  align-items: center;
   object-fit: cover;
   border-radius: 50%;
 }
@@ -48,7 +50,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
 }
 .label-green{
   background-color: green;

@@ -40,15 +40,8 @@
   background-color: blue;
 }
 .img-avatar{
- 
+  width: 50%;
   object-fit: cover;
-  border-radius: 50%;
-}
-.usuarios{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
 .label-green{
   background-color: green;
